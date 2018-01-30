@@ -140,5 +140,5 @@ export default {
     }
 ```
 ### UI界面
- ![图片](https://coding.net/u/ecit/p/vue_news/git/raw/898b4a541e6433d131baa5aff72abee62236ed35/UI/index1.jpg) ![图片](https://dn-coding-net-production-pp.qbox.me/a271b902-089f-4a1b-8879-357a113b66e5.png)
+ [图片](https://dn-coding-net-production-pp.qbox.me/a271b902-089f-4a1b-8879-357a113b66e5.png)
 
