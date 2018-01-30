@@ -140,5 +140,5 @@ export default {
     }
 ```
 ### UI界面
- [图片](https://dn-coding-net-production-pp.qbox.me/a271b902-089f-4a1b-8879-357a113b66e5.png)
+ ![图片](https://dn-coding-net-production-pp.qbox.me/a271b902-089f-4a1b-8879-357a113b66e5.png)
 
